@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AIPlayer
+comment1.params=
+comment1.target=AIPlayer()
+comment2.params=
+comment2.target=void\ upLevel()
+comment3.params=
+comment3.target=int\ getLevel()
+comment4.params=numPieces
+comment4.target=int[]\ choose(int)
+numComments=5

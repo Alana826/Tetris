@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Tetrimino
+comment1.params=myXPos\ myYPos\ mySpeed\ myRotation
+comment1.target=Tetrimino(int,\ int,\ double,\ int)
+comment10.params=
+comment10.target=void\ place()
+comment11.params=
+comment11.target=void\ hold()
+comment12.params=mySpeed
+comment12.target=void\ speedUp(double)
+comment2.params=
+comment2.target=void\ paint()
+comment3.params=
+comment3.target=void\ queue()
+comment4.params=
+comment4.target=void\ drop()
+comment5.params=
+comment5.target=void\ left()
+comment6.params=
+comment6.target=void\ right()
+comment7.params=myXPos
+comment7.target=void\ setXPos(int)
+comment8.params=
+comment8.target=int\ getXPos()
+comment9.params=
+comment9.target=void\ rotate()
+numComments=13

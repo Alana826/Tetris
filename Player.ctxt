@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\r\n\ @Alana\ Taylor\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=myName
+comment1.target=Player(java.lang.String)
+comment2.params=newCurrScore
+comment2.target=void\ upCurrScore(int)
+comment3.params=newHighScore
+comment3.target=void\ upHighScore(int)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getCurrScore()
+comment6.params=
+comment6.target=int\ getHighScore()
+numComments=7

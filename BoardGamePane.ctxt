@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BoardGamePane
+comment1.params=
+comment1.target=BoardGamePane()
+comment2.params=order
+comment2.target=void\ showData(int)
+comment3.params=order
+comment3.target=void\ setOrder(int)
+comment4.params=
+comment4.target=int\ getOrder()
+comment5.params=order\ x1\ y1\ x5\ y5
+comment5.target=void\ addLine(int,\ double,\ double,\ double,\ double)
+numComments=6
